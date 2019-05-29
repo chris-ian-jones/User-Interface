@@ -64,3 +64,125 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.all {
+	width: 876px;
+	margin: auto;
+	margin-top: 20px;
+}
+
+header nav {
+	display: inline-block;
+}
+
+header img {
+	display: inline-block;
+	vertical-align: bottom;
+}
+
+header a {
+	margin-right: 61px;
+	margin-left: 0px;
+	text-decoration: none;
+	color: gray;
+}
+
+.title {
+	padding-top: 50px;
+}
+
+.title-left-half {
+	display: inline-block;
+	width: 379px;
+	vertical-align: top;
+	padding-top: 80px;
+	padding-left: 60px;
+}
+
+.title-right-half {
+	display: inline-block;
+	width: 379px;
+	padding-left: 90px;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;	
+}
+
+button {
+	background-color: white;
+	border: 1px solid black;
+	color: black;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	display: block;
+	margin: auto;
+	font-size: 16px;
+}
+
+.upper-content {
+	margin-top: 40px;
+	border-top: 1px solid black;
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+
+
+.upper-half-left {
+	display: inline-block;
+	width: 432px;
+	height: 100px;
+	padding-right: 10px;
+}
+
+.upper-half-right {
+	display: inline-block;
+	width: 432px;
+	height: 100px;
+}
+
+.middle-img {
+	margin-top: 20px;
+}
+
+.lower-content {
+	margin-top: 40px;
+}
+
+.lower-third-left {
+	display: inline-block;
+	width: 280px;
+	padding-right: 10px;
+}
+
+.lower-third-middle {
+	display: inline-block;
+	width: 280px;
+	padding-right: 10px;
+}
+
+.lower-third-right {
+	display: inline-block;
+	width: 280px;
+	padding-right: 0px;
+}
+
+.contact {
+	margin-top: 40px;
+	border-top: 1px solid black;
+}
+
+.contact h3 {
+	margin-top: 40px;
+}
+
+footer p {
+	padding-top: 30px;
+	padding-left: 380px;
+	padding-bottom: 100px;
+}
+
